@@ -116,4 +116,4 @@ the PDF.
 
 ## License
 
-Add your license here.
+MIT
